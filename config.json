@@ -1,0 +1,7 @@
+{
+    "drivers": [
+        "./lib/iOS/",
+        "./lib/Android/"
+    ],
+    "deviceSessionTimeout": 900000
+}

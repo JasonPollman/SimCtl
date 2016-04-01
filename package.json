@@ -1,0 +1,23 @@
+{
+    "name": "simctl",
+    "version": "0.0.0",
+    "description": "iOS/Android/Web Simulator Control. Spawn and control multiple simulators using a single framework.",
+    "authors": [
+        "Jason Pollman"
+    ],
+    "keywords": [
+        "devices",
+        "ios",
+        "android",
+        "iphone",
+        "ipad"
+    ],
+    "dependencies": {
+        "node-fs-extra": "*"
+    },
+    "devDependencies": {
+        "chai": "3.4.1"
+    },
+    "preferGlobal": true,
+    "private": true
+}
